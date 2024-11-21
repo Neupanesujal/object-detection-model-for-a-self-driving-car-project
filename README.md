@@ -1,5 +1,3 @@
-Regarding the qualification task: ML(Computer Vision) Internship - Treeleaf Technologies Pvt Ltd
-
 I am detecting object for a self driving car.
 For this the object to be detected are street light, pedestrian, traffic signs and vehicles
 
